@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-(C:\Users\USER\Pictures\Screenshots\Ekran Görüntüsü (424).png)
+![Screenshot](Ekran Görüntüsü (424).png)
 
 ## Installation
 
